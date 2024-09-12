@@ -36,7 +36,4 @@ public class UserInterface {
         GetNumbers();
         PrintSimple();
     }
-    public static void TestFunc(){
-        GetArraySize();
-    }
 }
